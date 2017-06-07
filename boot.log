@@ -1,0 +1,10 @@
+Skipping profile in /etc/apparmor.d/disable: usr.bin.firefox
+Skipping profile in /etc/apparmor.d/disable: usr.sbin.rsyslogd
+ * Starting AppArmor profiles       [144G [138G[ OK ]
+ * Setting up X socket directories...       [144G [138G[ OK ]
+ * speech-dispatcher disabled; edit /etc/default/speech-dispatcher
+ * Starting Remote Desktop Protocol server       [144G [138G[ OK ]
+saned disabled; edit /etc/default/saned
+ * Restoring resolver state...       [144G [138G[ OK ]
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+ * 
